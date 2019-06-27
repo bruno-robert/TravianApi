@@ -1,7 +1,7 @@
 # TravianApi
 Non official Api for Travian. (scraping bassed ap) 
 
-<br/> WARNING: If u use the api, you can get banned from game. It's for educational porpouses only.
+<br/> WARNING: Using this API can get you banned from the game so use at your own risk!
  
 ## What can i do with that?
 You can build resources, build builgings, get current production, get current queue, map resources and map buildings.
