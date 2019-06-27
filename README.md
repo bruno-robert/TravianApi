@@ -4,7 +4,7 @@ Non official Api for Travian. (scraping bassed ap)
 <br/> WARNING: If u use the api, you can get banned from game. It's for educational porpouses only.
  
 ## What can i do with that?
-Actually, i have implemented the construction functionality. You can build resources, build builgings (no, it's not redundant), consult actual production, consult actual queue, map resoures and map buildings.
+You can build resources, build builgings, get current production, get current queue, map resources and map buildings.
 
 # Methods:
 
