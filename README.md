@@ -1,5 +1,6 @@
 # TravianApi
 Non official Api for Travian. (scraping bassed ap) 
+API originally based on [Sarrablo/TravianAPI](https://github.com/Sarrablo/TravianApi)
 
 <br/> WARNING: Using this API can get you banned from the game so use at your own risk!
  
