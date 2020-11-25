@@ -1,3 +1,4 @@
+[![Foo](https://xscode.com/assets/promo-banner.svg)](https://xscode.com/bruno-robert/travianapi)
 # TravianApi
 Non official Api for Travian. (scraping bassed ap) 
 API originally based on [Sarrablo/TravianAPI](https://github.com/Sarrablo/TravianApi)
